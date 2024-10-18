@@ -27,3 +27,6 @@ efficace et de respecter les délais impartis. Je présenterai les résultats lo
 Technologies utilisées :
 Les technologies utilisées pour ce projet incluent Figma pour la conception, HTML et CSS pour le développement, et des pratiques de gestion de projet Agile 
 pour l'organisation et la planification.
+
+Planification des Tâches :
+La gestion et la planification des tâches de ce projet ont été réalisées à l'aide de Trello. Vous pouvez consulter le tableau Trello ici : [Lien vers Trello.](https://trello.com/invite/b/670e5c97893c822f4250d580/ATTI077edeb1c4781bda42a387c412acd9b6364BAC24/beldi)
